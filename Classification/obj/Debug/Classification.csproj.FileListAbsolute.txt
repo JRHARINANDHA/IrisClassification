@@ -1,0 +1,8 @@
+E:\Project\ML\Classification\Classification\bin\Debug\Classification.exe.config
+E:\Project\ML\Classification\Classification\bin\Debug\Classification.exe
+E:\Project\ML\Classification\Classification\bin\Debug\Classification.pdb
+E:\Project\ML\Classification\Classification\bin\Debug\encog-core-cs.dll
+E:\Project\ML\Classification\Classification\bin\Debug\encog-core-cs.xml
+E:\Project\ML\Classification\Classification\obj\Debug\Classification.csprojResolveAssemblyReference.cache
+E:\Project\ML\Classification\Classification\obj\Debug\Classification.exe
+E:\Project\ML\Classification\Classification\obj\Debug\Classification.pdb
